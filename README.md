@@ -1,1 +1,2 @@
 # VKTests
+#For VK contest
